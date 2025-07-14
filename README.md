@@ -1,7 +1,5 @@
 # Orrery Web App
 
-Solo project, submitted under XNULL Team
-
 A orrery web app for the NASA SPACE APPS CHALLENGE 2024
 
 ## TECH STACK
