@@ -1,19 +1,17 @@
 # Orrery Web App By XNULL Team
 
-Our dream is to help visual impaired people understand more about our solar system. 
-We want everyone to have the opportunity to explore and learn.
+A orrery web app for the NASA SPACE APPS CHALLENGE 2024
 
 ## TECH STACK
 
 ### JAVASCRIPT - For the creation of the orrery.
 ### HTML / CSS - For the creation of the static pages
 ### THREE.JS - [https://threejs.org/]
-### VITE - Frontend framework
+### VITE
 
 ## Materials / Textures
 
-### We got all the texture for the planets from [SOLAR SYSTEM SCOPE](https://www.solarsystemscope.com/textures/)
-
+### The texture for the planets are from [SOLAR SYSTEM SCOPE](https://www.solarsystemscope.com/textures/)
 
 ## text to speech system
 
