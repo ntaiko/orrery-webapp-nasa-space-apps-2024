@@ -22,3 +22,5 @@ A orrery web app for the NASA SPACE APPS CHALLENGE 2024
 ## npm install
 
 ## npm run dev
+
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/434b6363-28bf-400f-b153-4e670f95882d" />
